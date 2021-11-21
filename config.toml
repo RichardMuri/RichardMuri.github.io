@@ -15,12 +15,12 @@ highlight_code = true
 
 [extra]
 # Put all your custom variables here
-dark_mode = true
+dark_mode = false
 nav = [
   { name = "About", path = "/about/" },
-  { name = "Paper Reviews", path = "/blog/" }
+  { name = "Paper Reviews", path = "/paper_reviews/" }
 ]
-
+blog_path = "paper_reviews"
 latest_text = "Check out my latest post:"
 
 icon = "icon.jpg"
